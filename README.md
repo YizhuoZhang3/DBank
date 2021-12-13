@@ -1,17 +1,11 @@
-# defi-staking-app-starter
+# Decentralized Bank
 
-## To download me simply open up the terminal and run: 
-
-git clone https://github.com/01Clarian/defi-staking-app-starter.git
-
-This code has been revesed engineered from Greg DAPPuniversity.com! If you enjoyed this course go check out his work ;) 
-Please feel free to clone and style this project at your own discretion!
 
 ## 1 To Clone or download this project simply run: 
 
 git clone - https://github.com/01Clarian/defi-staking-app-starter.git
 
-### 2. cd into the directory and Install the necessary packages
+## 2. cd into the directory and Install the necessary packages
 
 npm install
 
