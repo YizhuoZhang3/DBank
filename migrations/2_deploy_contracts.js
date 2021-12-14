@@ -1,6 +1,6 @@
 //const RWD = artifacts.require('RWD')
 const Tether = artifacts.require('Tether')
-c//onst DecentralBank = artifacts.require('DecentralBank')
+//const DecentralBank = artifacts.require('DecentralBank')
 
 module.exports = async function(deployer, network, accounts) {
   
