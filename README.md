@@ -39,7 +39,7 @@ Cryptocurrency is rapidly expanding nowadays, and one of the essential ways cryp
 7. npm install
 
 ## Next Steps
-There are still many feature can added to DBank such as to create more smart contracts for different tokens and allow users to deposite more style tokens in DBank. Since the short time to make this project, the reward feature hasn't been added. 
+There are still many features can be added to DBank such as to create more smart contracts for different tokens and allow users to deposite more style tokens in DBank. Since the short time to make this project, the reward feature hasn't been added. 
 
 ## Acknowledgements
 This project was inspired by Gregory from Dapp University, and followed a video tutorial by Clarian North in Udemy.
