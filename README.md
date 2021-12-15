@@ -1,66 +1,50 @@
-# Decentralized Bank
+# **DBank**
+DBank is a decentralized banking system that allocate funds to users and allow for depositing and withdrawals hosting multiple ERC20 style tokens.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Next Steps](#next-steps)
+- [Acknowledgements](#creators)
 
-## 1 To Clone or download this project simply run: 
+## Introduction
+Cryptocurrency is rapidlly expanding nowadays, and one of the essential ways cryptocurrencies are being utilized is in an emerging space called Decentralized Finance(DeFi). 
+DBank is a Yield Farming Staking Decentralized application(DAPP) and appiled DeFi concept which allows customer deposite and withdrawal tokens. While users deposite or withdrawal tokens, DBank as a platform can offer them interest for depositing and charge them for a fee of withdrawals through protocols. 
 
-git clone - https://github.com/01Clarian/defi-staking-app-starter.git
+## Tech Stack
+- Solidity
+- Javascript
+- Web3js
+- React
+- Truffle
+- Ganache
+- Ethereum Blockchain
+- Bootstrap
+- Mocha
+- Chai
+- MetaMask
 
-## 2. cd into the directory and Install the necessary packages
+## Features
 
-npm install
+### Deposite
+![Welcome Page](https://media.giphy.com/media/fdE2bIVqGQKYRFkam4/giphy.gif)
 
-### 4. Make sure truggle -g is installed
+### Withdraw
+![Welcome Page](https://media.giphy.com/media/fdE2bIVqGQKYRFkam4/giphy.gif)
 
-# use truffle compiile 
-(compile contracts)
+## Getting Started
+1. Fork and clone this repo
+2. npm install -g truffle
+3. Follow this tutorial to set up Ganache and MetaMask: https://www.youtube.com/watch?v=nUEBAS5r4Og
+4. In terminal run truffle compiile (compile contracts)
+5. In terminal run truffle migrate --reset (migrate contracts on the blockchain)
+6. In terminal truffle test (to run Moch and Chai testing suite)
+7. npm install
 
-# use truffle migrate --reset 
-(migrate contracts on the blockchain)
+## Next Steps
+There are still many feature can added to DBank such as to create more smart contracts for different tokens and allow users to deposite more style tokens in DBank. Since the short time to make this project, the reward feature hasn't been added. 
 
-# use truffle test
-to run Moch and Chai testing suite
-
-### Activate Application
-
-Go into the App.js folder and replace the current inactive
-API key with your API key.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Acknowledgements :heart:o
+This project was inspired by Gregory from Dapp University, and followed a video tutorial by Clarian North in Udemy.
