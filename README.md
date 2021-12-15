@@ -26,20 +26,15 @@ Cryptocurrency is rapidly expanding nowadays, and one of the essential ways cryp
 - MetaMask
 
 ## Features
-
-### Deposite
-![Welcome Page](https://media.giphy.com/media/fdE2bIVqGQKYRFkam4/giphy.gif)
-
-### Withdraw
-![Welcome Page](https://media.giphy.com/media/fdE2bIVqGQKYRFkam4/giphy.gif)
+![Home Page](https://media.giphy.com/media/xC23zXOJ6XRJ2tiAhj/giphy.gif)
 
 ## Getting Started
 1. Fork and clone this repo
 2. npm install -g truffle
 3. Follow this tutorial to set up Ganache and MetaMask: https://www.youtube.com/watch?v=nUEBAS5r4Og
-4. In terminal run truffle compiile (compile contracts)
-5. In terminal run truffle migrate --reset (migrate contracts on the blockchain)
-6. In terminal truffle test (to run Moch and Chai testing suite)
+4. In terminal run **truffle compiile** (compile contracts)
+5. In terminal run **truffle migrate --reset** (migrate contracts on the blockchain)
+6. In terminal **truffle test** (to run Moch and Chai testing suite)
 7. npm install
 
 ## Next Steps
