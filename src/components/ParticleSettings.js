@@ -11,7 +11,7 @@ render() {
             options={{
                 background: {
                     color:{
-                        value:"#0d47a1"
+                        value:"#F0A500"
                     },
                 },
                 fpslimit:60,

@@ -1,12 +1,11 @@
-import React, { Component } from 'react'
-import Navbar from './Navbar'
-import Web3 from 'web3'
-import './App.css'
-import Main from './Main'
-import Tether from '../truffle_abis/Tether.json'
-import RWD from '../truffle_abis/RWD.json'
-import DecentralBank from '../truffle_abis/DecentralBank.json'
-import ParticleSettings from './ParticleSettings'
+import React, { Component } from 'react';
+import Navbar from './Navbar';
+import Web3 from 'web3';
+import Main from './Main';
+import Tether from '../truffle_abis/Tether.json';
+import RWD from '../truffle_abis/RWD.json';
+import DecentralBank from '../truffle_abis/DecentralBank.json';
+import ParticleSettings from './ParticleSettings';
 
 class App extends Component {
   constructor(props) {
