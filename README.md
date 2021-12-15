@@ -7,11 +7,10 @@ DBank is a decentralized banking system that allocate funds to users and allow f
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Next Steps](#next-steps)
-- [Acknowledgements](#creators)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
-Cryptocurrency is rapidlly expanding nowadays, and one of the essential ways cryptocurrencies are being utilized is in an emerging space called Decentralized Finance(DeFi). 
-DBank is a Yield Farming Staking Decentralized application(DAPP) and appiled DeFi concept which allows customer deposite and withdrawal tokens. While users deposite or withdrawal tokens, DBank as a platform can offer them interest for depositing and charge them for a fee of withdrawals through protocols. 
+Cryptocurrency is rapidly expanding nowadays, and one of the essential ways cryptocurrencies are being utilized is in an emerging space called Decentralized Finance(DeFi). DBank is a Yield Farming Staking Decentralized application(DAPP) and applied DeFi concept which allows customer deposite and withdrawal tokens. While users deposite or withdrawal tokens, DBank as a platform can offer them interest for depositing and charge them for a fee of withdrawals through protocols.
 
 ## Tech Stack
 - Solidity
@@ -46,5 +45,5 @@ DBank is a Yield Farming Staking Decentralized application(DAPP) and appiled DeF
 ## Next Steps
 There are still many feature can added to DBank such as to create more smart contracts for different tokens and allow users to deposite more style tokens in DBank. Since the short time to make this project, the reward feature hasn't been added. 
 
-## Acknowledgements :heart:o
+## Acknowledgements
 This project was inspired by Gregory from Dapp University, and followed a video tutorial by Clarian North in Udemy.
